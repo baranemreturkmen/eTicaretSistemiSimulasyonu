@@ -1,4 +1,4 @@
-# eTicaretSistemiSim-lasyonu
+# eTicaretSistemiSimulasyonu
 Engin Demiroğun düzenlemiş olduğu (Java &amp; React) Yazılım Geliştirici Yetiştirme Kampında verilen ödev5'i içermektedir. Ödev içeriği gereği bir e ticaret sitesinin çalışma prensibleri simüle edilmiştir. Kodlar yazılırkın katmanlı mimariler oluşturulmuş ve solid prensiblerine uyulmuştur. Ödevde istenilen şartlar başarı ile yerine getirilmiştir.
 Ödevde istenilen şartlar ;
 
@@ -22,4 +22,4 @@ E-posta ve parola zorunludur
 Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir
 
 Yukarıdaki şartlara bakıldığında google hesapları ile üye olunabilmesi için dışarıdan eklenen sınıfımız GoogleAccount paketinin içerisinde bulunan GoogleAccountManager sınıfıdır. Ödevde belirtilen isterlerin dışında ben ekstra bir şekilde tasarladığımız sisteme başarılı bir şekilde üye olmayan kullanıcının sisteme login olamamasını 
-denetleyen bir yapı daha kurdum. Bu çalışmayla ilgili aklınıza takılan herhangi bir şey olursa bana ulaşmaktan çekinmeyin lütfen.
+denetleyen bir yapı daha kurdum. Kodlar ile ilgili detaylı açıklamalar java dosyalarının içerisinde bulunmaktadır. Bu çalışmayla ilgili aklınıza takılan herhangi bir şey olursa bana ulaşmaktan çekinmeyin lütfen.
