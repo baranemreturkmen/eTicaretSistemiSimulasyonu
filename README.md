@@ -1,5 +1,5 @@
 # eTicaretSistemiSimulasyonu
-Engin Demiroğun düzenlemiş olduğu (Java &amp; React) Yazılım Geliştirici Yetiştirme Kampında verilen ödev5'i içermektedir. Ödev içeriği gereği bir e ticaret sitesinin çalışma prensibleri simüle edilmiştir. Kodlar yazılırkın katmanlı mimariler oluşturulmuş ve solid prensiblerine uyulmuştur. Ödevde istenilen şartlar başarı ile yerine getirilmiştir.
+Engin Demiroğun düzenlemiş olduğu (Java &amp; React) Yazılım Geliştirici Yetiştirme Kampında verilen ödev5'i içermektedir. Ödev içeriği gereği bir e ticaret sitesinin çalışma prensibleri simüle edilmiştir. Kodlar yazılırken katmanlı mimariler oluşturulmuş ve solid prensiblerine uyulmuştur. Ödevde istenilen şartlar başarı ile yerine getirilmiştir.
 Ödevde istenilen şartlar ;
 
 1-Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
